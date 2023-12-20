@@ -1,0 +1,9 @@
+[submodule "HLab.Core"]
+	path = HLab.Core
+	url = https://github.com/Mgth/HLab.Core
+[submodule "HLab.Avalonia"]
+	path = HLab.Avalonia
+	url = https://github.com/Mgth/HLab.Avalonia
+[submodule "HLab.Wpf"]
+	path = HLab.Wpf
+	url = https://github.com/Mgth/HLab.Wpf
